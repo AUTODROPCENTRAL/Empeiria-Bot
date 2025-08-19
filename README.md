@@ -20,7 +20,7 @@ Dibuat untuk mempermudah pengguna dalam melakukan **transfer, staking, dan klaim
 1. Clone repository:
    ```bash
    git clone https://github.com/AUTODROPCENTRAL/Empeiria-Bot.git
-   cd Empeiria-Bot```
+   cd Empeiria-Bot
 
 
 2. Install dependencies:
