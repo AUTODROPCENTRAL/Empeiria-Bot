@@ -21,7 +21,7 @@ Dibuat untuk mempermudah pengguna dalam melakukan **transfer, staking, dan klaim
    ```bash
    git clone https://github.com/AUTODROPCENTRAL/Empeiria-Bot.git
    cd Empeiria-Bot
-````
+```
 
 2. Install dependencies:
 
